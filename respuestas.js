@@ -15,7 +15,7 @@ const respuestasData = {
                 <li><b>Delimitar claramente el alcance:</b> Tener muy claro qué entra en esta fase y qué se deja para después.</li>
                 <li><b>Necesidades funcionales:</b> Cómo interactúa el usuario con la plataforma, qué pasos realiza y qué criterios determinan que una tarea está bien hecha.</li>
                 <li><b>Aspectos clave de operación:</b> Garantizar la seguridad de la información, la velocidad del sistema, la disponibilidad y el rastreo de cada acción.</li>
-                <li><b>Reglas del negocio:</b> Las normas normativas y procedimentales que el sistema debe validar obligatoriamente.</li>
+                <li><b>Reglas del negocio:</b> Las normas que el sistema y nosotros debemos validar obligatoriamente.</li>
             </ul>
             <p>Luego organizaría sesiones de <b>trabajo colaborativo con los equipos de tecnología</b> para revisar qué tan viable es lo propuesto, cómo se va a conectar con los sistemas que tenemos y de qué forma se van a almacenar los datos. Para cerrar, haría una revisión final con los líderes del negocio para asegurarnos de que estamos alineados en expectativas antes lanzar mejoramientos.</p>
         `,
@@ -263,7 +263,7 @@ const respuestasData = {
                     <div class="node-card-v status-ok" id="c5_n3" onclick="clickFailedNode('n3')">
                         <span style="font-size:22px;">📂</span>
                         <div>
-                            <div style="font-size:13px; font-weight:700;">Base Registral CCB</div>
+                            <div style="font-size:13px; font-weight:700;">Base Registral CCMA</div>
                             <div style="font-size:11px; color:var(--muted);" id="c5_s3">Normal</div>
                         </div>
                     </div>
